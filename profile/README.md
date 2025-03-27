@@ -1,33 +1,27 @@
-# Проекты с Хакатонов
+# Projects from Hackathons
+Welcome to the DIMFLIX-Hackathons organization, the place where I post my projects created at hackathons! Here you will find various ideas, prototypes and solutions that were developed during the hackathons, as well as useful resources for participants.
 
-Добро пожаловать в организацию "DIMFLIX-Hackathons" – место, где я выкладываю свои проекты, созданные на хакатонах! Здесь вы найдете различные идеи, прототипы и решения, которые были разработаны в рамках хакатонов, а также полезные ресурсы для участников.
+## About the project
+The goal of this organization is to promote ideas and technologies created at hackathons. Here you will find resources and tools to help you develop, as well as finished projects that can be used as a basis or inspiration for your own ideas.
 
-## О проекте
+## How to use
+You are free to browse my projects and repositories to get an idea of how you can implement ideas at hackathons. You can clone repositories with projects and solutions to speed up the process of developing your own ideas. If you find a project you like, you can use it as the basis for your own project (if the license allows you to do so).
 
-Целью этой организации является содействие развитию идей и технологий, созданных на хакатонах. Здесь вы найдете ресурсы и инструменты, которые помогут вам в разработке, а также готовые проекты, которые могут быть использованы в качестве основы или вдохновения для ваших собственных идей.
+## Contents
+- Ideas and prototypes
+- Solutions for hackathons
+- Useful resources for participants
+- Ready projects
 
-## Как использовать
+## Contacts
+If you have any questions or suggestions, feel free to contact me:
 
-Вы можете свободно просматривать мои проекты и репозитории, чтобы получить представление о том, как можно реализовать идеи на хакатонах. Вы можете клонировать репозитории с проектами и решениями, чтобы ускорить процесс разработки своих собственных идей. Если вы нашли проект, который вам нравится, вы можете использовать его как основу для своего собственного проекта (если это позволяет делать лицензия).
+- Email address: dimflix.official@gmail.com
+- Telegram: [@dimflix_official](https://t.me/dimflix_official)
+- Github: [DIMFLIX](https://github.com/DIMFLIX)
 
-## Содержание
+## Acknowledgements
+Thank you for your interest in my projects from the hackathons! If you really like them, feel free to put stars! I hope they will help you with your own ideas and make your projects easier to create. Thank you for your support and cooperation!
 
-- Идеи и прототипы
-- Решения для хакатонов
-- Полезные ресурсы для участников
-- Готовые проекты
-
-## Контакты
-
-Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
-
-- Email: dimflix.official@gmail.com
-- Телеграм: [@dimflix_official](https://t.me/dimflix_official)
-
-## Благодарности
-
-Спасибо за ваш интерес к моим проектам с хакатонов! Если они вам действительно нравятся, не стесняйтесь ставить звёздочки! Я надеюсь, что они помогут вам в разработке собственных идей и облегчат процесс создания ваших проектов. Благодарю за поддержку и сотрудничество!
-
-## Лицензия
-
-Все проекты в этой организации лицензированы по лицензии MIT, если явно не указано иное.
+## License
+All projects in this organization are licensed under the MIT license unless explicitly stated otherwise.
